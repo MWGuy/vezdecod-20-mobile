@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">vezdecod-20-mobile</string>
+    <string name="record_title">Название</string>
+    <string name="create">Сохранить</string>
+    <string name="record_content">Контент</string>
+    <string name="is_password_category">Категория для паролей</string>
+    <string name="category">Категория</string>
+    <string name="record">Запись</string>
+    <string name="category_content">Категория</string>
+    <string name="show_record_remove">Удалить</string>
+    <string name="show_record_edit">Редактировать</string>
+</resources>
